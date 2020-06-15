@@ -18,3 +18,7 @@ This is the repo hosting the 2020_cohort project work
 | Siaaaanadong   | Group 3 or 4     |          |
 | MIchiganHuron  | Group 3 or 4     |          |
 | Michael0801949 | Group 3 or 4     |          |
+
+
+
+[Table to md web](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
