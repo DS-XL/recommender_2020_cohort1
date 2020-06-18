@@ -11,13 +11,12 @@ This is the repo hosting the 2020_cohort project work
 | Cruise-Ling    | Group 2          |          |
 | WLPaul         | Group 2          |          |
 | Ellen26        | Group 2          |          |
-| JohnnyIF       | Group 3 or 4     |          |
-| heruoy95       | Group 3 or 4     |          |
-| racer97        | Group 3 or 4     |          |
-| Ccheef         | Group 3 or 4     |          |
-| Siaaaanadong   | Group 3 or 4     |          |
-| MIchiganHuron  | Group 3 or 4     |          |
-| Michael0801949 | Group 3 or 4     |          |
+| JohnnyIF       | Group 3          |          |
+| heruoy95       | Group 3          |          |
+| Ccheef         | Group 3          |          |
+| Siaaaanadong   | Group 4          |          |
+| MIchiganHuron  | Group 4          |          |
+| Michael0801949 | Group 4          ||
 
 
 
