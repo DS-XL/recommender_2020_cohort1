@@ -6,7 +6,7 @@ This is the repo hosting the 2020_cohort project work
 | --------------- | ---------------- | ------------- | ----------- |
 | Ghostbinsun     | Group 1          | Bin           | Q2, Q7      |
 | Lishuang0821    | Group 1          | Shuang        |
-| Helenmonster    | Group 1          | ?             |
+| Helenmonster    | Group 1          | Helen             |
 | viannxu         | Group 1          | Viann         |
 | SebastianJia    | Group 2          | Ruo           | Q4 ， Q8     |
 | Cruise-Ling     | Group 2          | Hao           |
