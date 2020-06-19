@@ -1,7 +1,7 @@
-# recommender_2020_cohort1
+# Recommender_2020_cohort1
 This is the repo hosting the 2020_cohort project work
 
-# project group
+# Project group
 | Gtihub name     | Group Assignment | Nickname      | Class1 Prep |
 | --------------- | ---------------- | ------------- | ----------- |
 | Ghostbinsun     | Group 1          | Bin           | Q2, Q7      |
@@ -48,6 +48,7 @@ This is the repo hosting the 2020_cohort project work
 
 [Table to md web](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
 
-# Folder structure
-Please only modify the folder in the right class in your own group. 
+# Folder structure and Branch structure
+<B>Please modify the right class folder in your own group on your own feature branch. <B/>
+![image](https://user-images.githubusercontent.com/66924446/85090246-40539e80-b1aa-11ea-9dba-e0af49573d39.png)
 ![image](https://user-images.githubusercontent.com/66924446/85090090-e226bb80-b1a9-11ea-85da-f8f066374baa.png)
