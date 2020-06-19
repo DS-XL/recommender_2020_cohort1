@@ -1,7 +1,7 @@
 # recommender_2020_cohort1
 This is the repo hosting the 2020_cohort project work
 
-# Pre-selected students
+# project group
 | Gtihub name     | Group Assignment | Nickname      | Class1 Prep |
 | --------------- | ---------------- | ------------- | ----------- |
 | Ghostbinsun     | Group 1          | Bin           | Q2, Q7      |
