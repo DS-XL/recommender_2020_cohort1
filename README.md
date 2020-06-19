@@ -4,19 +4,20 @@ This is the repo hosting the 2020_cohort project work
 # Pre-selected students
 | Gtihub name    | Group Assignment | Nickname |
 | -------------- | ---------------- | -------- |
-| Ghostbinsun    | Group 1          |          |
-| Lishuang0821   | Group 1          |          |
-| Helenmonster   | Group 1          |          |
-| SebastianJia   | Group 2          |          |
-| Cruise-Ling    | Group 2          |          |
-| WLPaul         | Group 2          |          |
-| Ellen26        | Group 2          |          |
-| JohnnyIF       | Group 3          |          |
-| heruoy95       | Group 3          |          |
-| Ccheef         | Group 3          |          |
-| Siaaaanadong   | Group 4          |          |
-| MIchiganHuron  | Group 4          |          |
-| Michael0801949 | Group 4          ||
+| Ghostbinsun    | Group 1          |  Bin        |
+| Lishuang0821   | Group 1          |  Shuang        |
+| Helenmonster   | Group 1          | ?         |
+|||Viann|
+| SebastianJia   | Group 2          |  Ruo        |
+| Cruise-Ling    | Group 2          | Hao         |
+| WLPaul         | Group 2          | Paul         |
+| Ellen26        | Group 2          | Ellen         |
+| JohnnyIF       | Group 3          | Jonny         |
+| heruoy95       | Group 3          | Ryan         |
+| Ccheef         | Group 3          |   Qifu       |
+| Siaaaanadong   | Group 4          |  Siana        |
+| MIchiganHuron  | Group 4          |  Zonglin        |
+| Michael0801949 | Group 4          |Michael|
 
 
 
