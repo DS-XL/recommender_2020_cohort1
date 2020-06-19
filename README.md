@@ -47,3 +47,7 @@ This is the repo hosting the 2020_cohort project work
 
 
 [Table to md web](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+
+# Folder structure
+Please only modify the folder in the right class in your own group. 
+![image](https://user-images.githubusercontent.com/66924446/85090090-e226bb80-b1a9-11ea-85da-f8f066374baa.png)
